@@ -1,0 +1,12 @@
+testcases\UseridTest.class
+utility\monitoringMail.class
+utility\monitoringMail$SMTPAuthenticator.class
+core\Page.class
+utility\Report.class
+testcases\PasswordTest.class
+testcases\Runner.class
+utility\ScreenShot.class
+core\Hook.class
+externalxpath\AmazonXpath.class
+testcases\ProductSearch.class
+utility\TestConfig.class
